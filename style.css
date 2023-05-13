@@ -6,6 +6,7 @@ body{
   justify-items: center;
   margin-left: auto;
   margin-right: auto;
+  margin-top:1em;
   text-align: center;
   background-color: rgba(254, 80, 0, 0.267);
   border-radius: 5px;
