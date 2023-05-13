@@ -18,6 +18,9 @@ h1{
   color:#dc3545;
   text-shadow: 1px 3px 5px rgba(87, 85, 86, 0.514);
 }
+.container h4{
+  color:#dc3545;
+}
 img{
   width: 100%;
   height: auto;
@@ -191,7 +194,9 @@ footer a{
   color: lightslategrey;
   font-size:1.3rem;
   font-style: italic;
+  text-align: center;
 }
 .container p{
   text-align: start;
+  font-weight: 600;
 }
